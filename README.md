@@ -58,11 +58,11 @@
 ![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/9.PNG)
 ![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/9-2.PNG)
 ![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/13.PNG)
-![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/17.PNG)
-![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/19-21.PNG)
-![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/23-25.PNG)
-![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/27.PNG)
-![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/29-31.PNG)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/17.png)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/19-21.png)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/23-25.png)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/27.png)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/29-31.png)
 
 
 </div>
