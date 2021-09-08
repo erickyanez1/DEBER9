@@ -1,6 +1,6 @@
 <div align="center">
 
-# DEBER 8 - CAPÍTULOS 17 - 18
+# DEBER 8 - CAPÍTULOS 23 - 24
   
 ![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/espe.png) 
 
@@ -25,7 +25,7 @@
   
 # **2. MARCO TEÓRICO**
 
-- Capítulo 17
+- Capítulo 23
 <div align="center">
 
 
@@ -33,7 +33,7 @@
 </div>
 
 
-- Capítulo 18
+- Capítulo 24
 <div align="center">
 
 
@@ -45,14 +45,14 @@
 
 # **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
-- Capítulo 17
+- Capítulo 23
 <div align="center">
 
 
 
 </div>
 
-- Capítulo 18
+- Capítulo 24
 <div align="center">
 
 
