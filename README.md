@@ -50,6 +50,19 @@
 <div align="center">
 
 ![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/1.PNG)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/3-1.PNG)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/3-2.PNG)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/3-3.PNG)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/7-1.PNG)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/7-2.PNG)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/9.PNG)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/9-2.PNG)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/13.PNG)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/17.PNG)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/19-21.PNG)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/23-25.PNG)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/27.PNG)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/29-31.PNG)
 
 
 </div>
