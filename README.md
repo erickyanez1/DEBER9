@@ -49,6 +49,7 @@
 - Capítulo 23
 <div align="center">
 
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/1.PNG)
 
 
 </div>
