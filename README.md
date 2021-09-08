@@ -15,13 +15,14 @@
 
 # **1. OBJETIVOS**
 
-  - rna.
-  - Cononas.
-  - Conales.
-  - Identios.
-  - Anatico.
-  - Esttros.
-  - Calcuserie.
+  - Comprender el concepto de sistemas trifasicos, su relacion con las fuentes de voltaje "ac" y su manera de generar y transmitir potencia electrica para comprender su aplicacion en aparatos que necesitan de una sola fase.
+
+
+  - Estudiar la acción de los transformadores sus tipos, la relación que existe entre corriente y voltaje y sus aplicaciones.
+  - Comprender el concepto de sistemas trifásicos, su relación con las fuentes de voltaje "AC" y su manera de generar y transmitir potencia eléctrica para comprender su aplicación en aparatos que necesitan de una sola fase.
+  - Identificar las ventajas económicas que traen los sistemas de potencia de tres fases a diferencia de sistemas de potencia de una fase.
+  - Diferenciar entre sistemas trifásicos balanceados o desvalanceados.
+  - Identificar las diferencias y el uso correcto de los transformadores.
   
 # **2. MARCO TEÓRICO**
 
@@ -68,7 +69,7 @@
 
 Se concluye que:
 
-- en.
+- El análisis de un circuito "AC" puede llegar a ser una complejidad en el análisis de los diferentes métodos matemáticos necesarios para resolver un ejercicio.
 - Paria.
 - L7Vp.
 
