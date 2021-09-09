@@ -29,7 +29,11 @@
 - Capítulo 23
 <div align="center">
 
-
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/Mapa_cap23_1.png)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/Mapa_cap23_2.png)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/Mapa_cap23_3.png)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/Mapa_cap23_4.png)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/Mapa_cap23_5.png)
 
 </div>
 
@@ -63,13 +67,28 @@
 ![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/23-25.png)
 ![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/27.png)
 ![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/29-31.png)
-
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/Ejer-cap23-33.png)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/Ejer-cap23-35.png)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/Ejer-cap23-37.png)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/Ejer-cap23-39.png)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/Ejer-cap23-41.png)
 
 </div>
 
 - Capítulo 24
 <div align="center">
 
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/Ejer-cap24-1.png)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/Ejer-cap24-3.png)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/Ejer-cap24-5.png)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/Ejer-cap24-7.png)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/Ejer-cap24-9.png)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/Ejer-cap24-11.png)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/Ejer-cap24-13%20y%2015.png)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/Ejer-cap24-17.png)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/Ejer-cap24-19.png)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/Ejer-cap24-21.png)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/Ejer-cap24-23.png)
 ![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/Ejercicios_Cap24_P1.jpg)
 ![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/Ejercicios_Cap24_P2.jpg)
 ![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/Ejercicios_Cap24_P3.jpg)
@@ -102,7 +121,7 @@ Se concluye que:
 
 - El análisis de un circuito "AC" puede llegar a ser una complejidad en el análisis de los diferentes métodos matemáticos necesarios para resolver un ejercicio.
 - Para encontrar la potencia total en un sistema balanceado, se determina la potencia en una fase y luego se multiplica por tres.
-- L7Vp.
+- El signo del voltaje mutuo es el mismo que el signo de su propio voltaje cuando ambas corrientes entran en las terminales con punto (o sin punto), pero es opuesto cuando una corriente entra en una terminal con punto y la otra entra en una terminal sin punto.
 
 
 # **6. BIBLIOGRAFÍA**
