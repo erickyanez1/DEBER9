@@ -71,7 +71,24 @@
 <div align="center">
 
 ![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/Ejercicios_Cap24_P1.jpg)
-
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/Ejercicios_Cap24_P2.jpg)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/Ejercicios_Cap24_P3.jpg)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/Ejercicios_Cap24_P4.jpg)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/Ejercicios_Cap24_P5.jpg)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/Ejercicios_Cap24_P6.jpg)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/Ejercicios_Cap24_P7.jpg)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/Ejercicios_Cap24_P8.jpg)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/Ejercicios_Cap24_P9.jpg)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/Ejercicios_Cap24_P10.jpg)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/Ejercicios_Cap24_P11.jpg)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/Ejercicios_Cap24_P12.jpg)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/Ejercicios_Cap24_P13.jpg)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/Ejercicios_Cap24_P14.jpg)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/Ejercicios_Cap24_P15.jpg)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/Ejercicios_Cap24_P16.jpg)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/Ejercicios_Cap24_P17.jpg)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/Ejercicios_Cap24_P18.jpg)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/Ejercicios_Cap24_P19.jpg)
   
 </div>
 
