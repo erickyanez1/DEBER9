@@ -101,7 +101,7 @@
 Se concluye que:
 
 - El análisis de un circuito "AC" puede llegar a ser una complejidad en el análisis de los diferentes métodos matemáticos necesarios para resolver un ejercicio.
-- Paria.
+- Para encontrar la potencia total en un sistema balanceado, se determina la potencia en una fase y luego se multiplica por tres.
 - L7Vp.
 
 
