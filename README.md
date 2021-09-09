@@ -70,7 +70,7 @@
 - Capítulo 24
 <div align="center">
 
-
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/Ejercicios_Cap24_P1.jpg)
 
   
 </div>
