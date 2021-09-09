@@ -41,7 +41,11 @@
 - Capítulo 24
 <div align="center">
 
-
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/MT_Cap24_P1.jpg)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/MT_Cap24_P2.jpg)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/MT_Cap24_P3.jpg)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/MT_Cap24_P4.jpg)
+![](https://github.com/erickyanez1/DEBER9/blob/main/IMG/MT_Cap24_P5.jpg)
   
 </div>
 
